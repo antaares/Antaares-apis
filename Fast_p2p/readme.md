@@ -23,3 +23,6 @@ Mavjud so'rovlar:
 🔗 To'lov xizmati manzili: https://payme.uz/home/transfer
 
 💻 Dasturchi: https://t.me/anvarjamgirov
+
+
+Litsenziya mavjud [LICENZE](https://github.com/anvarjamgirov/FastP2P/blob/main/LICENSE)
